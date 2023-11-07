@@ -43,7 +43,7 @@ ul {
 li {
     margin: 5px 0;
 }
-.container ul li{
+.timer-app ul li{
     background-color: burlywood;
     padding: 10px 20px;
     width: 55%;
